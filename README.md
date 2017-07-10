@@ -11,3 +11,5 @@ It uses the camvid data set, still images of street scenes extracted from a head
 The jupyter notebook contains all the experiments, but data is not provided. The camvid data should be copied to the respective subdirectories as pointed out in the notebook.
 The directory *DL_utils* contains some helper functions created in part by myself and in part provided by the above mentioned course. 
 The directory *segm_utils* contains code for creating the model and for building data iterators with real-time augmentation as provided by the course and modified by myself. 
+
+**Note:** The notebook represents a snapshot of the project and may be a little rough around the edges.**
